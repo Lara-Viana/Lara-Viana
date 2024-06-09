@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao meu perfil
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
  <div>
    <a href="https://github.com/Lara-Viana">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lara-Viana&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -14,8 +16,7 @@
  
 <br>
 
-<div> 
-  <a href = "mailto:laradviana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lara-viana-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## Onde me encontrar
 
+[![Gmail Badge](https://img.shields.io/badge/-laradviana@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laradviana@gmail.com)](mailto:laradviana@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lara-viana-/)](https://www.linkedin.com/in/lara-viana-/)
