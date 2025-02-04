@@ -1,11 +1,6 @@
 ## Bem-vindo(a) ao meu perfil
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
- <div>
-   <a href="https://github.com/Lara-Viana">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lara-Viana&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
